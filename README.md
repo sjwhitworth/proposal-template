@@ -30,4 +30,4 @@ It's useful as a general purpose template for writing proposals for product and 
 
 ---
 
-If you find it useful, let me know [on Twitter](https://twitter.com/sjwhitworth).
+If you find it useful, let me know [on Twitter](https://twitter.com/sjwhitworth)!
